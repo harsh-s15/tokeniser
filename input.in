@@ -1,0 +1,9 @@
+int f(int a, int b){
+    return a<b;
+}
+
+int main(){
+    int c = 0;
+    for(int x=0;x<=10;x++) if(x<5) c++;
+    return 0;
+}
