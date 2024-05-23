@@ -1,3 +1,6 @@
+<h1>Introduction</h1>
+A tokeniser module for visualising how the first steps of compilation of any given C++ program results in a token stream.
+
 <h3><u>Lexical Analyser: token generator</u></h3>
 
 Manual :
